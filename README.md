@@ -1,4 +1,4 @@
-# Learning-HTML-CSS
+# HTML
 
 ## Head First Lounge
 Learnt the following elements:
@@ -28,3 +28,5 @@ Learnt the following elements:
 
 ## myPod
 > img 
+
+# CSS
