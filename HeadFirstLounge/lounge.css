@@ -10,3 +10,9 @@ h1 {
 p {
   color: maroon;
 }
+body {
+  font-family: monospace;
+}
+em {
+  font-family: serif;
+}
