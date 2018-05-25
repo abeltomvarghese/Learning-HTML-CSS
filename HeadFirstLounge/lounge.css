@@ -10,8 +10,17 @@ h1 {
 p {
   color: maroon;
 }
+.greenTea {
+  color: #228B22;
+}
+p.raspberry {
+  color: #0000CD;
+}
+p.Blueberry {
+  color: #8A2BE2;
+}
 body {
-  font-family: monospace;
+  font-family: inherit;
 }
 em {
   font-family: serif;
