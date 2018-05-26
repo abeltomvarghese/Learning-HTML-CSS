@@ -3,6 +3,9 @@
   src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
 
 }
+body{
+  font-size: 17px;
+}
 p {
   font-family: "Indie Flower", sans-serif;
   font-size: 20px;
@@ -10,4 +13,7 @@ p {
 h1 {
   font-family: "Emblema One", sans-serif;
   font-size: 250%
+}
+h2{
+  font-size: 1.5em;
 }
