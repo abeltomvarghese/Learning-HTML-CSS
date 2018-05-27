@@ -16,4 +16,6 @@ h1 {
 }
 h2{
   font-size: 1.5em;
+  font-weight: normal;
 }
+blockquote {font-style: italic;}
