@@ -35,3 +35,9 @@ h2 {
   background-repeat: no-repeat;
   background-position: top left;
 }
+#elixirs {
+  border-color: #007e7e;
+  border-width: 3px;
+  border-style: solid;
+  width: 200px;
+}
