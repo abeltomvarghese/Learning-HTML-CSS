@@ -19,6 +19,14 @@ body {
   width: 420px;
   float: left;
 }
+#allContent {
+  width: 1000px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #675c47;
+  margin-left: auto;
+  margin-right: auto;
+}
 #sidebar {
   background-color: #efe5d0;
   background-image: url(images/background.gif);
