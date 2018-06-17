@@ -15,8 +15,9 @@ body {
   background-position: top left;
   font-size: 105%;
   padding: 15px;
-  margin: 0px 330px 10px 10px;
-
+  margin: 0px 10px 10px 10px;
+  width: 420px;
+  float: left;
 }
 #sidebar {
   background-color: #efe5d0;
@@ -24,9 +25,7 @@ body {
   background-position: bottom right;
   font-size: 105%;
   padding: 15px;
-  margin: 0px 10px 10px 10px;
-  width: 280px;
-  float: right;
+  margin: 0px 10px 10px 470px;
 }
 #footer {
   background-color: #675c47;
@@ -34,7 +33,7 @@ body {
   text-align: center;
   padding: 15px;
   margin: 10px;
-  clear: right;
+  clear: left;
 }
 #sideH {
   float: right;
