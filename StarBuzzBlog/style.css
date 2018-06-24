@@ -29,7 +29,7 @@ section#drinks {
   width: 20%;
 }
 
-section#main {
+section#main, section#blog {
   display: table-cell;
   background-color:#efe5d0;
   background-image: url(images/background.gif);
