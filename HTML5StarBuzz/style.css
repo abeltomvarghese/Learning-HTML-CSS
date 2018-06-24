@@ -5,7 +5,7 @@ body {
   margin: 0px;
 }
 
-#header {
+header {
   background-color: #675c47;
   margin:10px 10px 0px 10px;
   height: 108px;
@@ -38,7 +38,7 @@ body {
   padding: 15px;
   vertical-align: top;
 }
-#Hslogan {
+header img#Hslogan {
   float: right;
 }
 #coupon {
@@ -49,7 +49,7 @@ body {
 #coupon a, img {
   border: none;
 }
-#sidebar {
+aside {
   display: table-cell;
   background-color: #efe5d0;
   background-image: url(images/background.gif);
@@ -63,7 +63,7 @@ body {
   top: 30px;
   left: 575px;
 }
-#footer {
+footer {
   background-color: #675c47;
   color: #efe5d0;
   text-align: center;
