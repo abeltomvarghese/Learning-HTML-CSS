@@ -47,3 +47,9 @@ caption {
 .rAlign {
   text-align: right;
 }
+th {
+  background-color: #cc6600;
+}
+.cellColor {
+  background-color: #fcba7a;
+}
