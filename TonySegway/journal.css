@@ -30,6 +30,8 @@ table {
   margin-right: 20px;
   border: thin solid black;
   caption-side: bottom;
+  border-spacing: 0px; /*this is moot since border is collapsed*/
+  border-collapse: collapse;
 }
 td, th {
   border: thin dotted gray;
@@ -38,4 +40,10 @@ td, th {
 caption {
   font-style: italic;
   padding-top: 8px;
+}
+.cAlign {
+  text-align: center;
+}
+.rAlign {
+  text-align: right;
 }
