@@ -50,6 +50,9 @@ caption {
 th {
   background-color: #cc6600;
 }
-.cellColor {
-  background-color: #fcba7a;
+tr:nth-child(2n+1) {
+  background-color:  #fcba7a;
 }
+/* .cellcolor {
+ background-color: #fcba7a;
+} */
