@@ -30,7 +30,7 @@ table {
   margin-right: 20px;
   border: thin solid black;
   caption-side: bottom;
-  border-spacing: 0px; /*this is moot since border is collapsed*/
+
   border-collapse: collapse;
 }
 td, th {
@@ -50,9 +50,17 @@ caption {
 th {
   background-color: #cc6600;
 }
+/*
 tr:nth-child(2n+1) {
   background-color:  #fcba7a;
-}
-/* .cellcolor {
- background-color: #fcba7a;
 } */
+.cellColor {
+ background-color: #fcba7a;
+}
+/* BOTH FUNCTIONS BELOW DO THE SAME THING*/ 
+.names{
+  background-color: white;
+}
+table table th {
+  background-color: white;
+}
